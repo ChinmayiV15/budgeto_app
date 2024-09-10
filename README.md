@@ -97,37 +97,3 @@ ___________________________________________________________________
 ![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/dark%20theme.gif?raw=true)
 
 
-## Download
-Download apk - https://drive.google.com/file/d/1ND6bVOeYheTLN19f6EMqhVEY8JlVIEhq/view?usp=share_link
-
-
-## Setup
-
-Run the following commands from your terminal:
-
-1) `https://github.com/tejasbadone/budgeto.git` to clone this repository 
-
-2) `flutter pub get` in the project root directory to install all the required dependencies.
-    
-
-
-## Tech Stack
-
-**Client:** Flutter
-
-**Server:** Firebase
-
-
-## Test Credentials
-**Email:** admin@email.com
-
-**Password:** admin123
-
-
-## Note
-Since this is a prototype users cannot send or receive actual money
-
-
-## License
-[MIT License](https://github.com/tejasbadone/budgeto/blob/main/LICENSE)
-
